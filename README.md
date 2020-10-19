@@ -2,6 +2,7 @@
 CosyPose: Consistent multi-view multi-object 6D pose estimation
 </h1>
 
+
 <div align="center">
 <h3>
 <a href="http://ylabbe.github.io">Yann Labbé</a>,
